@@ -1,0 +1,66 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer
+{
+    font-size: 20px;
+    width: 100%;
+    background: #FFAD73;
+    display: grid;
+    color: #fffaf7;
+    justify-items: center;
+    font-weight: 700;
+}
+
+a
+{
+    font-size: 20px;
+    color: #AD612B;
+}
+
+
+.inicio
+{
+    font-size: 80px;
+    width: 100%;
+    background: #57ECFA;
+    display: grid;
+    color: #fffaf7;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.info
+{
+    font-size: 40px;
+    width: 100%;
+    background: #1AA1AD;
+    display: grid;
+    color: #fffaf7;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+
+
+#img-div
+{
+    text-align: center;
+    max-width: 100%;
+}
+
+#img
+{
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
