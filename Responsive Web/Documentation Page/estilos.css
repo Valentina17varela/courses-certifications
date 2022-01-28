@@ -6,6 +6,8 @@ html
     padding: 0px;
     overflow-x: hidden; 
     background: #060608;
+    color: #ffffff;
+    font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -17,17 +19,20 @@ header
     font-weight: 600;
     color: #f42e1f;
     text-align: center;
-    border-radius: 4rem;
-    margin-right: 20px;
-    margin-left: 20px;
 }
 
 p
 {
     color: #ffffff;
     margin: 25px;
-    margin-left: 60px;
-    margin-right: 60px;
     font-size: 20px;
     text-align: justify;
+}
+
+.codigo
+{
+    margin: 30px;
+    color: #2f14c3;
+    background: #ffffff;
+    padding: 20px;
 }
