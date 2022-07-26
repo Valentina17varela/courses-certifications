@@ -4,6 +4,8 @@
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
+<br>
+
 ## Comprobador de palindromos
 Devuelve ```true``` si la cadena proporcionada es un palíndromo. De lo contrario, devuelve ```false```.
 
@@ -15,6 +17,7 @@ Pasaremos cadenas con formatos variables, como ```racecar```, ```RaceCar``` y ``
 
 También pasaremos cadenas con símbolos especiales, como ```2A3*3a2```, ```2A3 3a2``` y ```2_A3*3#A2```.
 
+<br>
 
 ## Conversor de numeros romanos
 Convierte el número proporcionado en un número romano.
