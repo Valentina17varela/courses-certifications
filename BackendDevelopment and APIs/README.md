@@ -13,6 +13,6 @@ PROYECTS:
 ### 1)Timestamp Microservice
 Full stack JavaScript app for a Timestamping Service that can interpret and generate timestamps in specific formats.
 <br>
-[Solution 👩🏻‍💻](../BackendDevelopment%20and%20APIs/timestamp-service/README.md)
+[Solution 👩🏻‍💻](../BackendDevelopment%20and%20APIs/timestamp-service)
 <br>
 ![](../BackendDevelopment%20and%20APIs/multimedia/Captura%20de%20pantalla%202024-01-04%20a%20la(s)%2011.51.28 p.m..png)
