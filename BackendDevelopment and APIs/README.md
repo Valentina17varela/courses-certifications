@@ -8,24 +8,11 @@
 
 https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
-Proyects:
+PROYECTS:
 
-1)Tribute Page
+### 1)Timestamp Microservice
+Full stack JavaScript app for a Timestamping Service that can interpret and generate timestamps in specific formats.
 <br>
-https://codepen.io/valentina17varela/pen/YzrdvRY
-
-2)Survey Form 
+[Solution 👩🏻‍💻](../BackendDevelopment%20and%20APIs/timestamp/)
 <br>
-https://codepen.io/valentina17varela/pen/zYEbQoe
-
-3)Product Landing Page
-<br>
-https://codepen.io/valentina17varela/pen/ZEazVjg
-
-4)Documentation Page
-<br>
-https://codepen.io/valentina17varela/pen/dyZoXYd?editors=1100
-
-5)Portafolio
-<br>
-https://codepen.io/valentina17varela/pen/XWzmwbx
+![](../BackendDevelopment%20and%20APIs/multimedia/Captura%20de%20pantalla%202024-01-04%20a%20la(s)%2011.51.28 p.m..png)
