@@ -33,3 +33,14 @@ Service that allows to shorten a url
 [Solution 👩🏻‍💻](../BackendDevelopment%20and%20APIs/url-shortener-service)
 <br>
 ![](../BackendDevelopment%20and%20APIs/multimedia/urlshortener.PNG)
+
+### 4)Exercise Tracker Microservice
+
+Web pplication, which allows any visitor to:
+- create a new user
+- register an exercise for an existing user
+- retrieve a list of exercises for an existing user.
+<br>
+[Solution 👩🏻‍💻](../BackendDevelopment%20and%20APIs/exercise-tracker-service)
+<br>
+![](../BackendDevelopment%20and%20APIs/multimedia/tracker.PNG)
