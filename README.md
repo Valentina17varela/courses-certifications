@@ -1,5 +1,5 @@
-# Cursos 🚀
+# Courses and certifications 🚀
 
-Este repositorio lo uso como archivo central donde compilo todos los cursos que he completado, junto con los proyectos asociados a cada uno. 
+I use this repository as a central archive where I compile all the courses I've completed, along with the projects associated with each and their certifications. 
 
-Aquí encontrarás una variedad de temas, desde desarrollo web hasta ciencia de datos, reflejando mi viaje de aprendizaje y crecimiento profesional. Cada curso incluye sus respectivos proyectos prácticos, lo que permite una fácil navegación y revisión de mi progreso a lo largo del tiempo
+Here you will find a variety of topics, from web development to data science, reflecting my journey of learning and professional growth.
