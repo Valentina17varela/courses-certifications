@@ -1,4 +1,4 @@
-## Curso Responsive Web Design - freecodeCamp
+## Responsive Web Design - freecodeCamp
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=f06529)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2965f1) 
