@@ -44,3 +44,11 @@ retrieve a list of exercises for an existing user.
 [Solution 👩🏻‍💻](../BackendDevelopment%20and%20APIs/exercise-tracker-service)
 <br>
 ![](../BackendDevelopment%20and%20APIs/multimedia/tracker.PNG)
+
+### 5)File Metadata Service
+
+Service that allows you to upload files, store them and obtain relevant information about them.
+<br>
+[Solution 👩🏻‍💻](../BackendDevelopment%20and%20APIs/filemetadata-service)
+<br>
+![](../BackendDevelopment%20and%20APIs/multimedia/file.PNG)
