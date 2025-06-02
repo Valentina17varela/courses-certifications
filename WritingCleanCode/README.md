@@ -5,6 +5,8 @@
 
 https://www.coursera.org/learn/packt-writing-clean-code-20-code-smells-how-to-avoid-them-g2oer
 
+https://github.com/PacktPublishing/Writing-Clean-Code---20-Common-Code-Smells-and-How-to-Avoid-Them
+
 <br>
 
 ![Image 2-06-25 at 6 09 PM](https://github.com/user-attachments/assets/0bea98ae-d2f5-446a-bda7-110d196c3a93)
